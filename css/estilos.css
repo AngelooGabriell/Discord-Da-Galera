@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://cdn4.ecycle.com.br/cache/images/2018-07/50-650-floresta-amazonica.jpg');
+    background-size: auto 100vh; 
+    font-family: Arial;
+    height: 105vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none; 
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: black;
+    text-align: center;
+  }
